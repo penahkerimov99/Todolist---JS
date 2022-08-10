@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.list-section{
+    width: 80rem;
+    height: 30rem;
+    border: 2px solid brown;
+}
+
+h1{
+    text-align: center;
+}
+
+input{
+    width: 20rem;
+    height: 40px;
+    border: 1px solid green;
+}
+button{
+    width: 10rem;
+    height: 40px;
+    background-color: chartreuse;
+    cursor: pointer;
+}
+
+form{
+    margin-top: 3rem;
+    margin-left: 25rem;
+}
